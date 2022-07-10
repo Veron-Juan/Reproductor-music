@@ -2,6 +2,9 @@ import "../styles/Disc.css"
 import './Disc.js'
 import '../styles/VolumeRange.css'
 
+// askdhdasasd asdas asdasdda sd s
+// jajajajajajajajja
+
 
 const playButton = ()=>{
     const discImage = document.querySelector('.asd');
