@@ -1,0 +1,25 @@
+.container-lyrics{
+    display: flex;
+    flex-direction: column;
+    color: rgb(180, 183, 186);
+    font-weight: bold;
+    position: absolute;
+    opacity: .6;
+    width: 45%;
+    height: 600px;
+    right: 18px;
+    
+    
+    
+    
+    
+}
+
+.container-lyrics h2{
+    font-size: 22px;
+}
+
+.container-lyrics p{
+    font-size: 8px;
+    
+}

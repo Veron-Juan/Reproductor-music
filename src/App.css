@@ -1,38 +1,19 @@
-.App {
-  text-align: center;
+*{
+  margin: 0;
+  padding: 0;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+body{
+  background-image: linear-gradient(145deg, #00293d 0, #00293f 6.25%, #002840 12.5%, #002741 18.75%, #002642 25%, #002542 31.25%, #0c2442 37.5%, #162241 43.75%, #1d2140 50%, #23203e 56.25%, #291e3c 62.5%, #2d1c3a 68.75%, #311b37 75%, #351934 81.25%, #381831 87.5%, #3a172e 93.75%, #3c162a 100%);
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
+/* body{
+  background-image: url('https://e00-marca.uecdn.es/assets/multimedia/imagenes/2020/02/14/15816909157779.jpg');
+  backdrop-filter: blur(4.6px);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+} */
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
 
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}

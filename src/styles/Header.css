@@ -1,0 +1,25 @@
+.header{
+    width: 100%;
+    height: 70px;
+    background-image: linear-gradient(260deg, #5b5f98 0, #313656 25%, #0c0d1a 50%, #000000 75%, #000000 100%);
+    box-shadow: 4px 4px 5px black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+
+.header-logo{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+  .nav{
+    display: flex;
+  }
+
+  .nav ul li{
+    color: white;
+  }
